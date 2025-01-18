@@ -1,0 +1,1 @@
+#This is a AMAZON website only using html and css.
